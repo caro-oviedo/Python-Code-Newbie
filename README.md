@@ -7,4 +7,5 @@
   <li> Rock, paper, scissors </li>
   <li> Collatz Function </li>
   <li> List to string </li> 
+  <li> Coin Flips Streaks </li>
 </ol>
