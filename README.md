@@ -8,4 +8,5 @@
   <li> Collatz Function </li>
   <li> List to string </li> 
   <li> Coin Flips Streaks </li>
+  <li> Binary Search (in progress) </li> 
 </ol>
