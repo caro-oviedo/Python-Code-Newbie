@@ -9,5 +9,6 @@
   <li> List to string </li> 
   <li> Coin Flips Streaks </li>
   <li> Binary Search (in progress) </li> 
-  </li> Tic Tac Toe </li>
+  <li> Tic Tac Toe </li>
+  <li> Game  Inventory </li>
 </ol>
