@@ -1,15 +1,15 @@
-# Python-
+# Python 
 
-<ol> 
-  <li> Working with files </li> 
-  <li> Json </li> 
-  <li> Guess the number </li>
-  <li> Rock, paper, scissors </li>
-  <li> Collatz Function </li>
-  <li> List to string </li> 
-  <li> Coin Flips Streaks </li>
-  <li> Binary Search (in progress) </li> 
-  <li> Tic Tac Toe </li>
-  <li> Game  Inventory </li>
-  <li> Print a table (string manipulation) </li>
-</ol>
+ 
++ Working with files  
++ Json    
++ Guess the number   
++ Rock, paper, scissors   
++ Collatz Function  
++ List to string 
++ Coin Flips Streaks 
++ Binary Search (in progress)  
++ Tic Tac Toe  
++ Game Inventory  
++ Print a table (string manipulation) 
++ RegEx 
