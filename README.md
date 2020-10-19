@@ -12,4 +12,4 @@
 + Tic Tac Toe  
 + Game Inventory  
 + Print a table (string manipulation) 
-+ RegEx 
++ Strong Password Detecttion (RegEx)
