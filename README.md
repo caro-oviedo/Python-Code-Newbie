@@ -1,4 +1,4 @@
-![Website](https://img.shields.io/website?label=3.8&style=flat-square&up_color=yellow&up_message=PYTHON&url=https%3A%2F%2Fwww.python.org%2F)
+![Website](https://img.shields.io/website?label=3.8&style=flat-square&up_color=yellow&up_message=PYTHON&url=https%3A%2F%2Fwww.python.org%2F) ![Website](https://img.shields.io/website?label=License&style=flat-square&up_color=blue&up_message=Apache%202.0&url=http%3A%2F%2Fwww.apache.org%2Flicenses%2FLICENSE-2.0.html)
 
 
 # Python beginner practice  
