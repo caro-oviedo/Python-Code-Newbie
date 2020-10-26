@@ -48,8 +48,8 @@ If a password is not strong, I thought it would be better to let the user know w
     ```   
 
 
-    + What I want to know now, is if there is a group that has a **none** value. This means that a requirement hasn't been met and since we used `(?P<name>)` in the regex we can know which that requirement is.  
-    + The `for loop` looks for the matches that have **none** value and _appends_ the **keys** in a list called `conditions` (I'm just interested in the keys because they will give me the names of the requirements)
+    + What I want to know now, is if there is a group that has **None** value. This means that a requirement hasn't been met and since we used `(?P<name>)` in the regex we can know which that requirement is.  
+    + The `for loop` looks for the matches that have **None** value and _appends_ the **keys** in a list called `conditions` (I'm just interested in the keys because they will give me the names of the requirements)
 
 3. The `if-statement` prints the names of the groups that haven't been met —stored in `conditions`.  
     + If `conditions` is empty, then that means all the conditions have been met. The `else-statement` returns `False`, which I use to break out of the `while loop`.
