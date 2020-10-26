@@ -15,7 +15,7 @@
 + Tic Tac Toe  (dictionaries)
 + Game Inventory  
 + Print a table (string manipulation) 
-+ Strong Password Detection (Regular Expressions)
++ Strong Password Detection (Regular Expressions) [Read detailed explanations]()
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Caro_Oviedo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Caro_Oviedo_)
