@@ -9,7 +9,7 @@
 
 This is a variation of a project exercise from the book  [Automate the Boring Stuff](https://nostarch.com/automatestuff2) in which we have to write a function —using regular expressions— that checks whether a password is strong or not.     
 
->  [You can find the complete code here]()
+[You can find the complete code here](https://github.com/caro-oviedo/Python-Code-Newbie/blob/master/is_valid_password_detection.py)
 
 
 ## Variation 
