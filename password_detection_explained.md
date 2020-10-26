@@ -1,4 +1,5 @@
-# Strong Password Detection (Regular Expressions)
+# Strong Password Detection (Regular Expressions)  
+![Website](https://img.shields.io/website?label=License&style=flat-square&up_color=blue&up_message=Apache%202.0&url=http%3A%2F%2Fwww.apache.org%2Flicenses%2FLICENSE-2.0.html)
 
 
 > Disclaimer: I'm a code newbie learning Python. I know there are better ways of solving this problem but this is my best shot at it so far. 
