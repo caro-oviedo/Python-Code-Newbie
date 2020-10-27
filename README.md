@@ -15,7 +15,7 @@
 + Tic Tac Toe  (dictionaries)
 + Game Inventory  
 + Print a table (string manipulation) 
-+ Strong Password Detection (Regular Expressions) [Read detailed explanations](https://github.com/caro-oviedo/Python-Code-Newbie/blob/master/password_detection_explained.md)
++ Strong Password Detection (Regular Expressions) [Strong Password Detection Explained](https://github.com/caro-oviedo/Python-Code-Newbie/blob/master/password_detection_explained.md)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Caro_Oviedo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Caro_Oviedo_)
