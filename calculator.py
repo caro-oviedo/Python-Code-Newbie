@@ -36,14 +36,22 @@ def compute(num1, operator, num2):
 
 def main():
     """ top-level function. It calls the compute() function """
-    first_number = float (input("Enter the first number") )
-    second_number = float (input("Enter the next number") )
+    try:
+        first_number = float (input("Enter the first number") )
+        second_number = float (input("Enter the next number") )
 
-    user_input = input("Enter an operator (+,-,*,/): ")
-    if user_input in valid_operators:
+        
+        user_input = input("Enter an operator (+,-,*,/): ")
+        if user_input not in valid_operators:
+            raise Exception ("Invalid operator")
         compute(first_number, user_input, second_number)
-    else:
-        print("Invalid operator. Cannot compute the result")
+    except ZeroDivisionError as e:
+        print(f"Invalid Operation. Details: {e}")
+    except ValueError as e:
+        print(f"Invalid input.Details: {e}")
+    except Exception as e:
+        print(f"Error details: {e}")
+        
 
 
 print("=" * 25)
