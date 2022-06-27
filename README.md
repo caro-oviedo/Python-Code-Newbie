@@ -21,6 +21,7 @@
 + Card Game
 + Calculator with Exception handling
 + Random Number guess 1 & 2
++ Recursion
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Caro_Oviedo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Caro_Oviedo_)
 
